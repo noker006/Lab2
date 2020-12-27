@@ -1,0 +1,3 @@
+Again, scanf causes the computer to wait for the user to enter a number. Suppose she
+enters 18; scanf reads the number, and stores it in the variable b. At this stage, the number 23 is
+stored in a and 18 is stored inb.
